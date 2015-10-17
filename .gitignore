@@ -1,0 +1,12 @@
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+.idea/
+.tmp/
+dist/
+.idea
+*.iml
+*.log.*
+*.log
+xunit.xml
